@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Indie" ;
-    src: url(/fonts/IndieFlower-Regular.ttf);
+    src: url(./fonts/IndieFlower-Regular.ttf);
 }
 * {
     margin: 0;
